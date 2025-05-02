@@ -37,6 +37,13 @@ The project embodies the spirit of collaborative development by a team of women 
 
 ---
 
+## Project Screenshots
+
+The screenshots for the working of the project are added in the link below. The site will be hosted soon after the encountered errors are resolved.
+https://drive.google.com/drive/folders/1MQRWrkvRdDpU9GUtdvJjG-BUIw7u0v8_?usp=sharing
+
+---
+
 ## Repository
 
 Explore the project and contribute at: [Team-CodeHerThing on GitHub](https://github.com/AditiiSharma2204/Team-CodeHerThing)
