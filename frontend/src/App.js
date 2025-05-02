@@ -9,7 +9,7 @@ function App() {
   return (
     <Router>
       <div className="header">
-        <h1>Team TechAlchemy</h1>
+        <h1>Team CodeHerThing</h1>
         <nav>
           <Link to="/">Home</Link>
           <Link to="/add">Add Member</Link>
